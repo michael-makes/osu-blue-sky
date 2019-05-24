@@ -1,0 +1,14 @@
+uuid: f3027d09-2009-453a-8bfc-546649a9f20d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - uit.communications@oregonstate.edu
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
